@@ -1,3 +1,10 @@
+ceph (0.94.3.1-clc) stable; urgency=low
+
+  * Monkey patch acls in rgw
+  * backport osd pg map deadlock
+
+ -- Storage Team <storage-solutions@ctl.io>  Tue, 08 Dec 2015 10:39:37 -0600
+
 ceph (0.94.3-1) stable; urgency=low
 
   * New upstream release
